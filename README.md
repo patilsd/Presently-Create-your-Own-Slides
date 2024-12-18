@@ -18,9 +18,9 @@ Front end
 ## Technology Stack
 
 <div style="display: flex; gap: 15px; align-items: center;">
-  <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/html.svg" alt="HTML" width="70" height="70"/>
-  <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/css.svg" alt="CSS" width="70" height="70"/>
-  <img src="https://github.com/VenkataRamanaDerangula/DERANGULA/blob/main/images/Skills/javascript.svg" alt="JavaScript" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="70" height="70"/>
+  <img src="https://img-resize-cdn.joshmartin.ch/768x0%2Cc3537b9f46b5f6055fbc8b4cd03b6b2cc63fc2eefd3d8cd9f0c9f99a5933e496/https://joshmartin.ch/app/uploads/2017/10/css3.svg" alt="CSS" width="70" height="70"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ4qe-TiNdb7kONl0a1C3a1R3H9TPWKSJeGg&s" alt="JavaScript" width="70" height="70"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" alt="React" width="60" height="60"/>
 </div>
 
